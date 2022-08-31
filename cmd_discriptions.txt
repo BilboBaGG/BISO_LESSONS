@@ -1,0 +1,9 @@
+today - Sends lessons for today
+tomorrow - Sends lessons for tomorrow
+monday - Sends lessons for Monday
+tuesday - Sends lessons for Tuesday 
+wednesday - Sends lessons for Wednesday
+thursday - Sends lessons for Thursday
+friday - Sends lessons for Friday
+saturday - Sends lessons for Saturday
+help - Sends help information
